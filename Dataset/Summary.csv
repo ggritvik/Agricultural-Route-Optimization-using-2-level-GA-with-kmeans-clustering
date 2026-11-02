@@ -1,0 +1,9 @@
+﻿Metric,Value
+Total Cities,100
+Total Possible Paths,9900
+Constrained Paths,6608
+Average Distance (km),5.119869801
+Min Distance (km),0.014891044
+Max Distance (km),21.481611
+Total Graph Nodes,55402
+Total Graph Edges,144032
