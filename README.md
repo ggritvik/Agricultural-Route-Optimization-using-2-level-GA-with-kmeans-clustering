@@ -3,8 +3,8 @@
 
 Welcome to this comprehensive Traveling Salesman Problem (TSP) optimization notebook. This project contains multiple implementations ranging from simple heuristics for small datasets to advanced clustered and hybrid meta-heuristic genetic algorithms (GAs) for large-scale and constrained routing challenges.
 
-Link to Colab File : https://colab.research.google.com/drive/1zEiBA27gl6Uzpd1PkadksfzIk3uTjSiY?usp=sharing
-
+Link to Colab File : [https://colab.research.google.com/drive/1zEiBA27gl6Uzpd1PkadksfzIk3uTjSiY?usp=sharing
+](https://colab.research.google.com/drive/1zEiBA27gl6Uzpd1PkadksfzIk3uTjSiY?usp=sharing)
 ---
 
 ## 📋 Project Overview & Datasets
